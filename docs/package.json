@@ -72,7 +72,7 @@
     "lint-staged": "^10.5.2",
     "markdownlint-cli2": "^0.0.11",
     "prettier": "^2.1.2",
-    "textlint": "^11.7.6",
+    "textlint": "^12.0.0",
     "textlint-rule-alex": "^3.0.0",
     "textlint-rule-diacritics": "^1.0.0",
     "textlint-rule-no-todo": "^2.0.1",
