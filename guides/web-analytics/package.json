@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Cube Dev, Inc.",
   "dependencies": {
-    "gatsby": "^2.15.28",
+    "gatsby": "^3.13.0",
     "gatsby-image": "^2.2.23",
     "gatsby-plugin-catch-links": "^2.1.12",
     "gatsby-plugin-google-analytics": "^2.1.19",
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
-    "eslint": "^6.5.0",
+    "eslint": "^7.16.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.3.0",
     "eslint-plugin-import": "^2.17.2",
@@ -54,7 +54,7 @@
     "remark-cli": "^7.0.0",
     "remark-preset-lint-recommended": "^3.0.2",
     "stylefmt": "^6.0.3",
-    "stylelint": "^11.0.0",
+    "stylelint": "^13.7.0",
     "stylelint-config-standard": "^19.0.0",
     "write-good": "^1.0.1"
   },
