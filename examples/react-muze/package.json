@@ -9,6 +9,6 @@
   "templateVersion": "0.24.3",
   "devDependencies": {
     "@cubejs-backend/postgres-driver": "^0.24.3",
-    "@cubejs-backend/server": "^0.24.3"
+    "@cubejs-backend/server": "^0.28.66"
   }
 }
