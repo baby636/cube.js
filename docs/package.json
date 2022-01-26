@@ -23,7 +23,7 @@
     "classnames": "^2.2.6",
     "cubedev-tracking": "^1.0.4",
     "dotenv": "^7.0.0",
-    "gatsby": "^2.0.0",
+    "gatsby": "^4.6.0",
     "gatsby-image": "^3.5.0",
     "gatsby-link": "^2.0.16",
     "gatsby-plugin-antd": "^2.0.2",
