@@ -10,7 +10,7 @@
     "chart.js": "^2.9.1",
     "component-cookie": "^1.1.4",
     "fetch": "^1.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "rc-animate": "^2.10.1",
     "react": "^16.11.0",
