@@ -28,7 +28,7 @@ RUN RUSTFLAGS="-C target-feature=+avx2" cargo build --release -p cubestore
 COPY cubestore cubestore
 RUN RUSTFLAGS="-C target-feature=+avx2" cargo build --release -p cubestore
 
-FROM debian:buster-slim
+FROM debian:10.12-slim
 
 WORKDIR /cube
 
