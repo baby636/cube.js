@@ -21,7 +21,7 @@
     "core-js": "^3.6.5",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.11.0",
-    "graphql-tools": "5.0.0",
+    "graphql-tools": "6.0.0",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.5",
     "vue-chartjs": "^3.5.1",
