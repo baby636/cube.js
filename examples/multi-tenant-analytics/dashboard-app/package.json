@@ -19,7 +19,7 @@
     "bizcharts": "^4.1.7",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.12.1",
-    "graphql-tools": "^5.0.0",
+    "graphql-tools": "^6.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-beautiful-dnd": "^13.0.0",
