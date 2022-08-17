@@ -43,7 +43,7 @@
     "gatsby-remark-copy-linked-files": "^2.0.11",
     "gatsby-remark-custom-blocks": "^2.3.13",
     "gatsby-remark-images": "^3.0.10",
-    "gatsby-source-filesystem": "^2.0.28",
+    "gatsby-source-filesystem": "^4.21.0",
     "gatsby-transformer-remark": "^2.3.8",
     "loader-utils": "^1.2.3",
     "lockr": "^0.8.5",
