@@ -39,7 +39,8 @@
     "styled-components": "^4.4.0",
     "styled-media-query": "^2.1.2",
     "styled-normalize": "^8.0.6",
-    "url-join": "^4.0.0"
+    "url-join": "^4.0.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "cli-glob": "^0.1.0",
@@ -77,11 +78,14 @@
     "lint:md": "remark content/",
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
     "format:js": "prettier '**/*.{js,jsx}' --write",
-    "deploy": "npm run build && netlify deploy --prod --dir public"
+    "deploy": "npm run build && netlify deploy --prod --dir public",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "remarkConfig": {
     "plugins": [
       "remark-preset-lint-recommended"
     ]
-  }
+  },
+  "snyk": true
 }
