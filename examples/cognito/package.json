@@ -15,6 +15,6 @@
     "@cubejs-backend/server": "^0.26.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.836.0"
+    "aws-sdk": "^2.1354.0"
   }
 }
