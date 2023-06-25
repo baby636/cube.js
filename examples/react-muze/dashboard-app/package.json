@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "copy-webpack-plugin": "^6.3.2",
+    "copy-webpack-plugin": "^7.0.0",
     "customize-cra": "^1.0.0",
     "less": "^3.12.2",
     "less-loader": "^7.1.0",
