@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ant-design/compatible": "^1.0.8",
+    "@ant-design/compatible": "^5.0.0",
     "@ant-design/icons": "^4.5.0",
     "@apollo/react-hooks": "^4.0.0",
     "@cubejs-client/core": "^0.26.13",
@@ -29,7 +29,7 @@
     "react-resizable": "^1.11.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.2",
+    "react-scripts": "5.0.0",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
