@@ -13,6 +13,6 @@
   "devDependencies": {
     "@cubejs-backend/athena-driver": "^0.25.30",
     "@cubejs-backend/cubestore-driver": "^0.25.30",
-    "@cubejs-backend/server": "^0.25.30"
+    "@cubejs-backend/server": "^0.26.0"
   }
 }
