@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@amcharts/amcharts4": "^4.10.17",
+    "@amcharts/amcharts4": "^4.10.36",
     "@amcharts/amcharts4-geodata": "^4.1.17",
     "@cubejs-client/core": "^0.26.94",
     "moment": "^2.27.0",
@@ -14,7 +14,7 @@
     "react-dom": "^16.13.1",
     "react-dropzone": "^11.3.2",
     "react-hotkeys-hook": "^2.2.2",
-    "react-scripts": "^3.4.4"
+    "react-scripts": "^5.0.0"
   },
   "scripts": {
     "dev": "react-scripts start",
