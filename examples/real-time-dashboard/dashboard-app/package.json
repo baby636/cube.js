@@ -6,7 +6,7 @@
     "@cubejs-client/core": "^0.11.10",
     "@cubejs-client/react": "^0.11.12",
     "@cubejs-client/ws-transport": "^0.11.7",
-    "antd": "^3.24.3",
+    "antd": "^4.0.0",
     "chart.js": "^2.9.1",
     "component-cookie": "^1.1.4",
     "fetch": "^1.1.0",
@@ -18,7 +18,7 @@
     "react-dom": "^16.11.0",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.4",
+    "react-scripts": "5.0.0",
     "uuid": "^3.3.3"
   },
   "scripts": {
