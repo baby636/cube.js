@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@cubejs-backend/server-core": "^0.25.31",
-    "@cubejs-backend/sqlite-driver": "^0.25.30",
+    "@cubejs-backend/sqlite-driver": "^0.26.41",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
@@ -17,7 +17,7 @@
     "moment-timezone": "^0.5.31",
     "node-stream-zip": "^1.11.2",
     "serve-static": "^1.14.1",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.0.3",
     "uuid": "^8.3.0"
   }
 }
