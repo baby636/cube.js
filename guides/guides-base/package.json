@@ -19,7 +19,7 @@
     "url-join": "^4.0.1"
   },
   "devDependencies": {
-    "styled-components": "^4.4.0"
+    "styled-components": "^6.1.0"
   },
   "peerDependencies": {
     "styled-components": ">=4"
