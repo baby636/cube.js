@@ -11,6 +11,6 @@
   "devDependencies": {
     "@cubejs-backend/bigquery-driver": "^0.23.8",
     "@cubejs-backend/postgres-driver": "^0.23.8",
-    "@cubejs-backend/server": "^0.23.14"
+    "@cubejs-backend/server": "^0.25.23"
   }
 }
