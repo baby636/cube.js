@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "@cubejs-backend/postgres-driver": "^0.4.4",
-    "@cubejs-backend/server": "^0.4.6"
+    "@cubejs-backend/server": "^0.36.0"
   }
 }
