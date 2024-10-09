@@ -37,7 +37,7 @@
     "gatsby-plugin-root-import": "^2.0.5",
     "gatsby-plugin-s3": "^0.2.5",
     "gatsby-plugin-sass": "^2.0.11",
-    "gatsby-plugin-sharp": "^2.6.31",
+    "gatsby-plugin-sharp": "^5.12.1",
     "gatsby-plugin-sitemap": "^2.1.0",
     "gatsby-redirect-from": "^0.2.4",
     "gatsby-remark-copy-linked-files": "^2.0.11",
