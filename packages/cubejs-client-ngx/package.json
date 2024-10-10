@@ -32,11 +32,11 @@
     "dev": "yarn build && yalc publish --push"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1000.3",
+    "@angular-devkit/build-angular": "^12.0.0",
     "@angular-devkit/build-ng-packagr": "^0.1000.3",
     "@angular/cli": "^10.2.3",
     "@angular/compiler": "^10.2.4",
-    "@angular/compiler-cli": "^10.2.4",
+    "@angular/compiler-cli": "^18.2.8",
     "@angular/core": "^10.2.4",
     "ng-packagr": "^10.1.2",
     "npm-watch": "^0.7.0",
