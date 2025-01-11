@@ -9,7 +9,7 @@
     "mongodb": "^3.3.3"
   },
   "devDependencies": {
-    "@cubejs-backend/mongobi-driver": "^0.23.8",
-    "@cubejs-backend/server": "^0.23.14"
+    "@cubejs-backend/mongobi-driver": "^1.1.12",
+    "@cubejs-backend/server": "^1.1.12"
   }
 }
