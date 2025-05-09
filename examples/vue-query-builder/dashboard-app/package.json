@@ -9,7 +9,7 @@
     "deploy": "cross-env NODE_ENV=production npm run build && netlify deploy --prod --dir dist"
   },
   "dependencies": {
-    "@cubejs-client/core": "^0.26.70",
+    "@cubejs-client/core": "^0.30.60",
     "@cubejs-client/vue": "^0.26.70",
     "apollo-boost": "^0.4.9",
     "apollo-cache-inmemory": "^1.6.6",
@@ -21,7 +21,7 @@
     "core-js": "^3.6.5",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.11.0",
-    "graphql-tools": "5.0.0",
+    "graphql-tools": "9.0.1",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.5",
     "vue-chartjs": "^3.5.1",
