@@ -40,7 +40,7 @@
     "@types/jest": "^26.0.9",
     "@types/moment-range": "^4.0.0",
     "babel-jest": "^26.0.1",
-    "eslint": "^7.21.0",
+    "eslint": "^9.26.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-node": "^5.2.1",
